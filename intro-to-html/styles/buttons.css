@@ -1,0 +1,129 @@
+
+	.button-1{
+		background-color: red;
+		color: white;
+		border: none;
+		border-radius: 20px;
+		cursor: pointer;
+		margin-right: 20px;
+		transition:opacity 1s;
+		vertical-align: top;
+		padding-left: 16px;
+		padding-bottom:10px;
+		padding-right:16px;
+		padding-top: 10px;
+		margin-bottom: 30px;
+	}
+	.button-1:hover{
+		opacity:0.6;
+	}
+	.button-1:active{
+		opacity:0.4;
+	}
+	.button-2{
+		background-color: white;
+		color: rgb(0,0,200);
+		border-radius: 1px;
+		border-color:rgb(41, 118, 221);
+		border-width: 1px;
+		border-style: solid;
+		cursor: pointer;
+		margin-left: 20px;
+		margin-right: 20px;
+		transition:color 1s;
+		transition:background-color 4s,color 1s;
+		padding-left: 16px;
+		padding-bottom:10px;
+		padding-right:16px;
+		padding-top: 10px;
+		vertical-align: top;
+	}
+	.button-2:hover{
+		background-color: rgb(0,0,200);
+		color: white;
+		transition:background-color 4s,color 1s;
+	}
+	.button-2:active{
+		opacity:0.4;
+	}
+	
+	.button-3{
+		color: white;
+		background-color: rgba(2, 158,255);
+		border-radius: 17px;
+		border-color:rgb(41, 118, 221);
+		border-width: 1px;
+		border-style: solid;
+		cursor: pointer;
+		margin-left: 20px;
+		font-weight:bold;
+		font-size:15px;
+		transition:box-shadow 0.5s;
+		padding-left: 16px;
+		padding-bottom:10px;
+		padding-right:16px;
+		padding-top: 10px;
+		vertical-align: top;
+	}
+	.button-3:hover{
+		box-shadow:5px 5px 10px rgb(0,0,0,0.15);
+	}
+		.ex1{
+		 background-color: red;
+		color: white;
+		border: none;
+		border-radius: 20px;
+		cursor: pointer;
+		margin-right: 20px;
+		transition:opacity 1s;
+		vertical-align: top;
+		padding-left: 16px;
+		padding-bottom:10px;
+		padding-right:16px;
+		padding-top: 10px;
+		margin-bottom: 30px;
+	}
+	.ex1:hover{
+		 padding-left: 32px;
+		padding-bottom:20px;
+		padding-right:32px;
+		padding-top: 20px;
+	}
+	.text{
+		font-size:25px;
+		color:black;
+	}
+	.rate{
+		color:rgb(0,118,0);
+	}
+	.button-4{
+		background-color:rgb(255,216,20);
+		color: black;
+		height:34px;
+		width: 125px;
+		border-radius: 17px;
+		border-color:rgb(255,216,20);
+		border-width: 1px;
+		border-style: solid;
+		cursor: pointer;
+		margin-left: 20px;
+		font-weight:bold;
+		font-size:15px;
+	}
+	 .amazon:hover{
+		color:rgb(100,0,0)
+	}
+	.button-5{
+		background-color:rgb(255,164,28);
+		color: black;
+		height:34px;
+		width: 75px;
+		border-radius: 17px;
+		border-color:rgb(255,164,28);
+		border-width: 1px;
+		border-style: solid;
+		cursor: pointer;
+		margin-left: 20px;
+		font-weight:bold;
+		font-size:15px;
+	}
